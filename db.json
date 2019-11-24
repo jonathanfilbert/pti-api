@@ -1,70 +1,72 @@
 {
-  "biro": "PTI",
-  "proker": 11,
-  "anggota": [
-    {
-      "nama": "Anggardha Febriano",
-      "email": "anggardha.febriano@ui.ac.id",
-      "tempat_lahir": "Yogyakarta",
-      "tanggal_lahir": "2000-02-25",
-      "asal_sekolah": "SMAN 1 Depok",
-      "foto": null
-    },
-    {
-      "nama": "Dhipta Raditya",
-      "email": "dhipta.raditya@ui.ac.id",
-      "tempat_lahir": "Magelang",
-      "tanggal_lahir": "1999-01-08",
-      "asal_sekolah": "Sma Kesatuan Bangsa",
-      "foto": "https://pmb.novi-bot.online/media/18276237-A129-41D7-9B8C-850B55F72AAA.jpeg"
-    },
-    {
-      "nama": "Kevin Prakasa",
-      "email": "kevin.prakasa@ui.ac.id",
-      "tempat_lahir": "Depok",
-      "tanggal_lahir": "2018-12-05",
-      "asal_sekolah": "Smak st. louis 1",
-      "foto": null
-    },
-    {
-      "nama": "Aldi Hilman",
-      "email": "aldi.hilman@ui.ac.id",
-      "tempat_lahir": "Manado",
-      "tanggal_lahir": "1999-12-24",
-      "asal_sekolah": "SMAN 2 Tangerang Selatan",
-      "foto": "https://pmb.novi-bot.online/media/1564686178000.jpg"
-    },
-    {
-      "nama": "Leonardo",
-      "email": "leonardo81@ui.ac.id",
-      "tempat_lahir": "Jakarta",
-      "tanggal_lahir": "2000-08-07",
-      "asal_sekolah": "SMA Methodist",
-      "foto": "https://pmb.novi-bot.online/media/Black.png"
-    },
-    {
-      "nama": "Kefas Satrio",
-      "email": "kefas.satrio@ui.ac.id",
-      "tempat_lahir": "Bekasi",
-      "tanggal_lahir": "2000-04-24",
-      "asal_sekolah": "SMA Tunas Jakasampurna Bekasi",
-      "foto": "https://pmb.novi-bot.online/media/1542354202917.jpg"
-    },
-    {
-      "nama": "Jonathan Filbert",
-      "email": "jonathan.filbert81@ui.ac.id",
-      "tempat_lahir": "Jakarta",
-      "tanggal_lahir": "2000-02-27",
-      "asal_sekolah": "SMAK 1 PENABUR Jakarta",
-      "foto": "https://pmb.novi-bot.online/media/IMG_20190824_014723_753.jpg"
-    },
-    {
-      "nama": "George Matthew",
-      "email": "george.matthew@ui.ac.id",
-      "tempat_lahir": "Makassar",
-      "tanggal_lahir": "1999-07-17",
-      "asal_sekolah": "SMAK 1 PENABUR Jakarta",
-      "foto": null
-    }
-  ]
+  "data": {
+    "biro": "PTI",
+    "proker": 11,
+    "anggota": [
+      {
+        "nama": "Anggardha Febriano",
+        "email": "anggardha.febriano@ui.ac.id",
+        "tempat_lahir": "Yogyakarta",
+        "tanggal_lahir": "2000-02-25",
+        "asal_sekolah": "SMAN 1 Depok",
+        "foto": null
+      },
+      {
+        "nama": "Dhipta Raditya",
+        "email": "dhipta.raditya@ui.ac.id",
+        "tempat_lahir": "Magelang",
+        "tanggal_lahir": "1999-01-08",
+        "asal_sekolah": "Sma Kesatuan Bangsa",
+        "foto": "https://pmb.novi-bot.online/media/18276237-A129-41D7-9B8C-850B55F72AAA.jpeg"
+      },
+      {
+        "nama": "Kevin Prakasa",
+        "email": "kevin.prakasa@ui.ac.id",
+        "tempat_lahir": "Depok",
+        "tanggal_lahir": "2018-12-05",
+        "asal_sekolah": "Smak st. louis 1",
+        "foto": null
+      },
+      {
+        "nama": "Aldi Hilman",
+        "email": "aldi.hilman@ui.ac.id",
+        "tempat_lahir": "Manado",
+        "tanggal_lahir": "1999-12-24",
+        "asal_sekolah": "SMAN 2 Tangerang Selatan",
+        "foto": "https://pmb.novi-bot.online/media/1564686178000.jpg"
+      },
+      {
+        "nama": "Leonardo",
+        "email": "leonardo81@ui.ac.id",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "2000-08-07",
+        "asal_sekolah": "SMA Methodist",
+        "foto": "https://pmb.novi-bot.online/media/Black.png"
+      },
+      {
+        "nama": "Kefas Satrio",
+        "email": "kefas.satrio@ui.ac.id",
+        "tempat_lahir": "Bekasi",
+        "tanggal_lahir": "2000-04-24",
+        "asal_sekolah": "SMA Tunas Jakasampurna Bekasi",
+        "foto": "https://pmb.novi-bot.online/media/1542354202917.jpg"
+      },
+      {
+        "nama": "Jonathan Filbert",
+        "email": "jonathan.filbert81@ui.ac.id",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "2000-02-27",
+        "asal_sekolah": "SMAK 1 PENABUR Jakarta",
+        "foto": "https://pmb.novi-bot.online/media/IMG_20190824_014723_753.jpg"
+      },
+      {
+        "nama": "George Matthew",
+        "email": "george.matthew@ui.ac.id",
+        "tempat_lahir": "Makassar",
+        "tanggal_lahir": "1999-07-17",
+        "asal_sekolah": "SMAK 1 PENABUR Jakarta",
+        "foto": null
+      }
+    ]
+  }
 }
